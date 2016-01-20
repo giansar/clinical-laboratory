@@ -1,0 +1,27 @@
+{
+  "name": "clinical-laboratory-frontend",
+  "homepage": "https://github.com/giansar/clinical-laboratory",
+  "description": "An Information System for Clinical Laboratory",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "Clinical",
+    "Laboratory"
+  ],
+  "authors": [
+    "Giansar Pratiknya"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "~1.0.2"
+  }
+}
